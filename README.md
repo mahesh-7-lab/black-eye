@@ -29,7 +29,7 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/Expert-Hacker/E-TOOL.git
+$ git clone https://github.com/mahesh-7-lab/black-eye
 ```
 ```
 $ cd E-TOOL
@@ -42,8 +42,4 @@ $ bash main_script.sh
 ```
 ```
 ```
-### ☑️Subscribe our channel on youtube⚙️:
-   https://www.youtube.com/channel/UC5GjaNLtyqJD8gkm7MI7f_A?view_as=subscriber
-
-### ☑️ Join our Whatsapp Group✴️:
-   https://chat.whatsapp.com/CFiddfO21kjJ7vhihFGQi3
+Thanks
