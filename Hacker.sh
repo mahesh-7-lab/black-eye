@@ -1,5 +1,5 @@
-#Coded By KEERTHAN
-#YouTube:Expert-Hacker
+#Coded By MAHESH
+#YouTube:INFO TECH
 clear
 sleep 2
 sl
@@ -8,14 +8,14 @@ echo "
 
 ███████╗ ████████╗ ██████╗  ██████╗ ██╗ 
 ██╔════╝ ╚══██╔══╝██╔═══██╗██╔═══██╗██║     
-█████╗█████╗██║   ██║   ██║██║   ██║██ By: EXPERT HACKER 
+█████╗█████╗██║   ██║   ██║██║   ██║██ By: INFO TECH 
 ██╔══╝╚════╝██║   ██║   ██║██║   ██║██║     
 ███████╗    ██║   ╚██████╔╝╚██████╔╝███████╗
 ╚══════╝    ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝
 " |lolcat
 
-echo "Coded By KEERTHAN" |lolcat
-echo "YouTube : www.YoutTube.com/Expert Hacker" |lolcat
+echo "Coded By Mahesh" |lolcat
+echo "YouTube : https://www.youtube.com/channel/UCJKDmdd7ceo2r-SafEjseEg" |lolcat
 
 #MENU DRULIVEN START HERE..!
 echo "---------------------------------"
